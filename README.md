@@ -6,7 +6,7 @@
 </div>
 
 ![Profile views](https://komarev.com/ghpvc/?username=fuzhanrahmanian&color=blue)
-[![Github](https://img.shields.io/github/followers/fuzhanrahmanian?label=Follow&style=social)](https://github.com/Aditya664)
+[![Github](https://img.shields.io/github/followers/fuzhanrahmanian?label=Follow&style=social)](https://github.com/fuzhanrahmanian)
 
 <h2> About Me 🎵 🎵</h2>
 
