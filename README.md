@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on my PhD at Technical University of Munich (TUM) and working at KIT in the [PoLiS Cluster of Excellence](https://www.postlithiumstorage.org/en/) (and trying to survive :sweat_smile:)
 
-- 🌱 I’m currently learning Data Science and AI
+- 🌱 I’m passionate in learning Data Science and AI
 
 - 💬 Talk to me about Python, Maths, Data Science, AI and classical Music :musical_keyboard::musical_keyboard:
 
