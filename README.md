@@ -27,6 +27,3 @@
 <br>
 
 
-
-|![Fuzhan's github stats](https://github-readme-stats-8eypqtm8b-fuzhanrahmanian.vercel.app/api?username=fuzhanrahmanian&show_icons=true&hide_border=true&bg_color=0d1117&text_color=5bcdec&title_color=5bcdec&icon_color=ffffff&include_all_commits=true)|![Fuzahn's GitHub Streak](https://github-readme-streak-stats-theta.vercel.app/?user=fuzhanrahmanian&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&ring=5bcdec&currStreakLabel=5bcdec&fire=5bcdec&sideLabels=5bcdec&hide_border=true)|
-| ----- | --- |
