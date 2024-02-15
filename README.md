@@ -2,7 +2,7 @@
 <p align='center'>
 </p>
 
-<div size='20px'> Hi! My name is Fuzhan. Thank You for taking the time to view my GitHub Profile 😄
+<div size='20px'> Hi! My name is Fuzhan. Thank You for taking the time to view my GitHub Profile 😄.
 </div>
 
 ![Profile views](https://komarev.com/ghpvc/?username=fuzhanrahmanian&color=blue)
@@ -10,7 +10,7 @@
 
 <h2> About Me 🎵 🎵</h2>
 
-- 🔭 I’m currently working on my PhD at Technical University of Munich (TUM) and working at KIT in the [PoLiS Cluster of Excellence](https://www.postlithiumstorage.org/en/) (and trying to survive :sweat_smile:)
+- 🔭 I’m currently working on my PhD at Technical University of Munich (TUM) and trying to survive :sweat_smile:
 
 - 🌱 I’m passionate in learning Data Science and AI
 
