@@ -10,11 +10,11 @@
 
 <h2> About Me 🎵 🎵</h2>
 
-- 🔭 I’m currently working on my PhD at Technical University of Munich (TUM) and trying to survive :sweat_smile:
+- 🎓 I’ve recently graduated from Technical University of Munich (TUM) and am now seeking opportunities in project management and leadership roles focused on integrating AI solutions to state-of-the-art problems and moving towards digitalization 😄
 
-- 🌱 I’m passionate in learning Data Science and AI
+- 🚀 I’m advancing my skills in Data Science and AI every day.
 
-- 💬 Talk to me about Python, Maths, Data Science, AI and classical Music :musical_keyboard::musical_keyboard:
+- 💬 Talk to me about Python, Maths, Data Science, AI, and classical Music :musical_keyboard::musical_keyboard:
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/fuzhan-rahmanian-79188b172/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
