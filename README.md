@@ -10,7 +10,7 @@
 
 <h2> About Me 🎵 🎵</h2>
 
-- 🎓 I’ve recently graduated from Technical University of Munich (TUM) and am now seeking opportunities in project management and leadership roles focused on integrating AI solutions to state-of-the-art problems and moving towards digitalization 😄
+- 🎓 I’ve recently graduated from Technical University of Munich (TUM) and am now seeking opportunities in project management and leadership roles focused on integrating AI solutions to state-of-the-art problems and moving towards digitalization.
 
 - 🚀 I’m advancing my skills in Data Science and AI every day.
 
